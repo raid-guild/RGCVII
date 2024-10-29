@@ -2,6 +2,16 @@
 
 Awesome list of all things for RaidGuild RGVII
 
+## Links
+
+[DAOHaus](https://admin.daohaus.club/#/molochv3/0x2105/0x4d5a5b4a679b10038e1677c84cb675d10d29fffd)
+
+[CharmVerse](https://app.charmverse.io/raidguild-cohort-season-7)
+
+[Character Sheets](https://play.raidguild.org/games/base/0xc0533928955cb4dbd7723ccf27a613f791f6d0b1)
+
+[Slowball](https://slowball.daohaus.club/#/molochv3/0x2105/0x4d5a5b4a679b10038e1677c84cb675d10d29fffd/0x989f04491bd26146a7ba5fe9c55be760f227f511)
+
 ## Projects
 
 ### Hamsterized Token Dashboard
@@ -71,3 +81,15 @@ Can defo flesh out our special hamster and his tale on a weekly basis by writing
 ### Social Media Chronicles
 
 The serialized "Adventures of the Raid Guild Hamster" unfolds alongside Cohortviewer.eth. Herein we're pretty much responsible to manage our chosen social media accounts and create content relevant to the raid guild as a whole to educate, and also shits & giggles Hamster stuff + showing off the rest of the lovely cohort and what we're all doing here/learning.
+
+### Commemorative NFTs
+
+Commemorative NFTs at the end of the cohort. These could be personalized hamster avatars reflecting individual members or even team-specific designs. This provides a lasting memento and a potential community-building tool.
+
+### Expensive Message
+
+Every message costs 2x more RGCVII than the previous one!When anyone posts after you, you double your money.
+
+#### Links
+
+- [Demo](https://expensivemessage.com)
