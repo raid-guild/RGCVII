@@ -36,7 +36,7 @@ Dashboard for transferable DAO tokens. This will be able to be used for the coho
 
 #### Links
 
-- [Github Repository](https://github.com/syahirAmali/hamsterized-token-dashboard)
+- [Github Repository](https://github.com/RGCVII/hamsterized-token-dashboard)
 - [UI mockup](https://www.figma.com/design/9aK2ppcyXmDMM5DZx30i7r/Untitled?node-id=0-1&t=K7EmHTqopZKL3LXG-1)
 
 ### SLAY THE MOLOCH game
